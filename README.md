@@ -15,3 +15,9 @@
 
 ⚡ Fun fact: I once designed an educational coffee interface because I disliked the AI barista I used at the South by South West Tech and Innovation convention. 
 
+[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&amp;theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
+
+Best :)
+Micaela Blank 
+
+Micaelablank.vercel.app
