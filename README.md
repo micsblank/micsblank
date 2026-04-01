@@ -38,6 +38,8 @@
 
 [![Micaela Blank's github stats](https://github-readme-stats.vercel.app/api?username=micsblank&amp;theme=dark)](https://github.com/micsblank/github-readme-stats)
 
+![Micaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaelablank&show_icons=true&theme=default)
+
 Best :)
 Micaela Blank 
 Micaelablank.vercel.app
