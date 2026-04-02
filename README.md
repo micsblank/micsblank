@@ -36,8 +36,7 @@
 
 📫 How to reach me: micaelablank@gmail.com or micaelablank@ssw.com.au  
 
-![Micaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaelablank&show_icons=true&theme=default)
-
+[![Micaela's GitHub stats](https://gitstats.ssw.com.au/api?username=micsblank&amp;theme=dark)](https://github.com/SSWConsulting/SSW.GitHub.Profile.Stats)
 Best :)
 Micaela Blank 
 Micaelablank.vercel.app
